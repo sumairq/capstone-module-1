@@ -48,7 +48,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- The project was based on a design by [sCindy Shin](https://www.behance.net/adagio07) (original design)
+-Design by [Cindy Shin](https://www.behance.net/adagio07) (original design)
 
 
 ## 📝 License
