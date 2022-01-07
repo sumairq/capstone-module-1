@@ -92,8 +92,7 @@ header {
   height: 100vh;
   top: -200%;
   left: 0;
-  background: rgb(50, 50, 50) url('../images/pattern-bg.png');
-  transition: top 2s;
+  background: rgb(48, 48, 48);
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -116,7 +115,6 @@ header {
   top: 0;
   left: 0;
   z-index: 5;
-  transition: top ease-out 1s;
 }
 
 .navbar-button__close {
@@ -129,7 +127,6 @@ header {
   padding: 1px;
   display: flex;
   margin-right: 7%;
-  transition: 0s;
 }
 
 .nav-button__close:hover {
