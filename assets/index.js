@@ -71,7 +71,6 @@ function createStaffSection() {
 
 createStaffSection();
 
-
 const more = document.querySelector('#more a');
 const speaker = document.querySelectorAll('.staff');
 

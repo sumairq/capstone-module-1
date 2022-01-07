@@ -179,7 +179,7 @@
   .features__cards p {
     text-align: center;
     align-self: flex-start;
-    font-family: (--fontFamily-lato);
+    font-family: var(--fontFamily-lato);
   }
 
   #participate {
