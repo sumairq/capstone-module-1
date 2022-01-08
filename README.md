@@ -1,61 +1,42 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Aplha Tours
 
-> One paragraph statement about the project.
+> This project is for completing my Capstone Project requirements for first module at Microverse. It consists of two webpages for a touring company called Alpha Tours, which offers international tour packages.
 
-![screenshot](./app_screenshot.png)
+![screenshot](https://github.com/sumairq/capstone-module-1/blob/dev/assets/images/screenshot.png?raw=true)
 
-Additional description about the project and its features.
+It consists of two webpages Home and About with both being responsive to desktop and mobile layouts.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML / CSS / JavaScript
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
-
+- [Live Demo Link](https://sumairq.github.io/capstone-module-1/)
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+### To launch the project locally:
 
+#### Step 1:
+- Clone this repo locally using git and the following git command
 
-To get a local copy up and running follow these simple example steps.
+  git clone https://github.com/sumairq/capstone-module-1.git
 
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+#### Step 2:
+- Run index.html file in your browser
 
 ## Authors
 
-👤 **Author1**
+👤 **Sumair Qaisar Jadoon**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@sumairq](https://github.com/sumairq)
+- Twitter: [@sumair_qaisar](https://twitter.com/sumair_qaisar)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/sumair-qaisar-jadoon-84a877164)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
+## 🤝 Contributions
 
 Contributions, issues, and feature requests are welcome!
 
@@ -67,9 +48,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+-Design by [Cindy Shin](https://www.behance.net/adagio07) (original design)
+
 
 ## 📝 License
 
