@@ -408,6 +408,7 @@
   #footer-main {
     display: flex;
     padding: 2%;
+    background-color: var(--Grey);
   }
 
   #footer-main .flex-container {
@@ -423,7 +424,7 @@
   #footer-main .flex-container p {
     font-family: var(--fontFamily-lato);
     font-weight: normal;
-    color: var(--Grey);
+    color: var(--White);
     font-size: 0.8rem;
   }
 }
