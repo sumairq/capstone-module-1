@@ -380,7 +380,7 @@
   }
 
   #footer {
-    background: rgb(252, 243, 243);
+    background: #272A31;
     padding: 2%;
   }
 
@@ -397,7 +397,7 @@
   #footer .flex-container p {
     font-family: var(--fontFamily-lato);
     font-weight: normal;
-    color: var(--Black);
+    color: var(--White);
     font-size: 0.8rem;
   }
 
